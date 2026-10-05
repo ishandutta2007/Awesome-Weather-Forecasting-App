@@ -58,9 +58,9 @@ Below is a comparison of top commercial weather platforms and API services, sort
 
 ## 🔓 Open-Source GitHub Weather Projects
 
-Below are top open-source weather apps, radar engines, terminal weather clients, and frameworks, sorted by **GitHub Star Count (Descending)**: 🚀
+Below are top open-source weather apps, radar engines, terminal weather clients, and frameworks, sorted by **GitHub Stars_Count (Descending)**: 🚀
 
-| Project & Repository | Stars ⭐ | Description & Stack 🛠️ | License 📜 |
+| Project & Repository | GitHub_Stars ⭐ | Description & Stack 🛠️ | License 📜 |
 | :--- | :--- | :--- | :--- |
 | **[wttr.in](https://github.com/chubin/wttr.in)** | [![wttr.in stars](https://img.shields.io/github/stars/chubin/wttr.in?style=social&color=white)](https://github.com/chubin/wttr.in/stargazers) | Console-oriented weather forecast service supporting ANSI terminal output, HTML, PNG rendering, cURL support, and zero configuration. | Apache-2.0 |
 | **[Breezy Weather](https://github.com/breezy-weather/breezy-weather)** | [![Breezy Weather stars](https://img.shields.io/github/stars/breezy-weather/breezy-weather?style=social&color=white)](https://github.com/breezy-weather/breezy-weather/stargazers) | Feature-rich Android weather app supporting 50+ weather sources (Open-Meteo, AccuWeather, etc.), Material 3 Expressive UI, home screen widgets, and zero personal data collection. | LGPL-3.0 |
@@ -86,7 +86,7 @@ Below are top open-source weather apps, radar engines, terminal weather clients,
 
 1. Fork the repository. 🍴
 2. Add or edit entries in `README.md` maintaining table formatting. 📝
-3. Ensure entries include accurate pricing, repository URLs, star badges, and factual descriptions. 🎯
+3. Ensure entries include accurate pricing, repository URLs, Stars_Badges, and factual descriptions. 🎯
 4. Submit a Pull Request with a short summary of changes. 🔀
 
 ---
